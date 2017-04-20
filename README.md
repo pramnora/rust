@@ -17,7 +17,7 @@ The Rust Standard Library
 https://doc.rust-lang.org/std/  
 
  
-## Videos...
+## Video tutorials...
 
 ### Udemy
 
@@ -26,3 +26,7 @@ https://doc.rust-lang.org/std/
 - https://www.udemy.com/the-rust-programming-language/  
 - https://www.udemy.com/rust-lang/  
 
+### YouTube
+
+RUST Tutorial/(Derek Banas)  
+https://www.youtube.com/watch?v=U1EFgCNLDB8  
