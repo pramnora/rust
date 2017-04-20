@@ -10,4 +10,7 @@ https://www.rust-lang.org/en-US/
 RBE/Rust By Example...  
 http://rustbyexample.com/  
 
+The Rust Standard Library  
+https://doc.rust-lang.org/std/  
+
  
