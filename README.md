@@ -14,3 +14,12 @@ The Rust Standard Library
 https://doc.rust-lang.org/std/  
 
  
+## Videos...
+
+### Udemy
+
+*NOTE*: The 3 links below are all 'unpaid' for...; however, they do contain some FREE introductory videos explaining stuff...; so for the total beginner...it might well be worthwhile going to check out.    
+- https://www.udemy.com/rust-programming-for-beginners/  
+- https://www.udemy.com/the-rust-programming-language/  
+- https://www.udemy.com/rust-lang/  
+
