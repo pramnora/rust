@@ -16,6 +16,10 @@ http://rustbyexample.com/
 The Rust Standard Library  
 https://doc.rust-lang.org/std/  
 
+## Online compiler
+
+Programeriz  - Rust/FREE online compiler  
+- https://play.rust-lang.org/?version=stable&mode=debug&edition=2021  
  
 ## Video tutorials...
 
