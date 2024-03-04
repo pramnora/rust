@@ -21,17 +21,17 @@ Rust comments are the similar to C code comments.
 ## Links...  
 
 Download/learn more...  
-https://www.rust-lang.org/en-US/  
+- https://www.rust-lang.org/en-US/  
 *NOTE*: If you go to the above site; you can see 'example codes' which it's possible to both edit/run inside of the browswer online.  
 
 Official Installation guide...   
-https://www.rust-lang.org/en-US/install.html    
+- https://www.rust-lang.org/en-US/install.html    
 
 RBE/Rust By Example...  
-http://rustbyexample.com/  
+- http://rustbyexample.com/  
 
 The Rust Standard Library  
-https://doc.rust-lang.org/std/  
+- https://doc.rust-lang.org/std/  
 
 ## Online compiler
 
@@ -53,4 +53,4 @@ Programeriz  - Rust/FREE online compiler
 ### YouTube
 
 RUST Tutorial/(Derek Banas)  
-https://www.youtube.com/watch?v=U1EFgCNLDB8  
+- https://www.youtube.com/watch?v=U1EFgCNLDB8  
