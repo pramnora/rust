@@ -18,6 +18,9 @@ https://doc.rust-lang.org/std/
 
 ## Online compiler
 
+Programeriz.com, Rust Introductory tutorial  
+- https://www.programiz.com/rust/getting-started  
+
 Programeriz  - Rust/FREE online compiler  
 - https://play.rust-lang.org/?version=stable&mode=debug&edition=2021  
  
