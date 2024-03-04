@@ -3,6 +3,21 @@ Rust programming code
 
 Document last modified: *4th March 2024 - 12:51 PM GMT*  
 
+## Introduction
+
+Rust, is a modern day programming language. It is meant to be as *fast* as c code.
+
+## Example codes
+
+Rust comments are the similar to C code comments.
+
+>//This is a single line comment
+
+>/*
+>This is a 
+>Multi-line comment block
+>*/
+
 ## Links...  
 
 Download/learn more...  
