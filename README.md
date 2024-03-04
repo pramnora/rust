@@ -13,10 +13,10 @@ Rust comments are the similar to C code comments.
 
 >//This is a single line comment
 
->/*
->This is a 
->Multi-line comment block
->*/
+>/*  
+>This is a   
+>Multi-line comment block  
+>*/  
 
 >fn main(){
 > println!("Hello, world!");
